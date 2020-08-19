@@ -1,0 +1,7 @@
+19:18:42.762 [main] FATAL com.jqueryui.lib.config.CreateDrivers - check fatal
+19:18:45.101 [main] ERROR com.jqueryui.lib.config.CreateDrivers - check Error
+11:46:24.037 [main] INFO  com.jqueryui.lib.config.CreateDrivers - Jquery UI loaded
+11:46:31.387 [main] INFO  com.jqueryui.lib.config.CreateDrivers - Clicked on Droppable
+11:46:40.147 [main] FATAL com.jqueryui.lib.config.CreateDrivers - check fatal
+11:46:42.714 [main] ERROR com.jqueryui.lib.config.CreateDrivers - check Error
+11:47:50.275 [main] INFO  com.jqueryui.lib.config.CreateDrivers - Jquery UI loaded

@@ -1,0 +1,16 @@
+com\jqueryui\lib\config\CreateDrivers.class
+com\jqueryui\lib\ui\ResizablePage.class
+com\jqueryui\lib\ui\WidgetFactoryPage.class
+com\jqueryui\lib\util\Utility.class
+com\jqueryui\lib\ui\ColorAnimation.class
+com\jqueryui\lib\ui\HidePage.class
+com\jqueryui\lib\ui\DialogPage.class
+com\jqueryui\lib\ui\ShowPage.class
+com\jqueryui\lib\ui\ToolTipPage.class
+com\jqueryui\lib\ui\DroppablePage.class
+com\jqueryui\lib\ui\SpinnerPage.class
+com\jqueryui\lib\ui\DraggablePage.class
+com\jqueryui\lib\ui\DatepickerPage.class
+com\jqueryui\lib\ui\JqueryHomePage.class
+com\jqueryui\lib\util\DataHandlers.class
+com\jqueryui\lib\ui\EffectPage.class
